@@ -1,0 +1,14 @@
+INFO 2024-08-30 13:14:27,432 api 2112 13308 User logged in: prod12
+INFO 2024-08-30 13:16:00,314 api 2112 7604 User logged out: 
+INFO 2024-08-30 13:21:42,300 api 2112 6104 User logged in: prod12
+INFO 2024-08-30 13:21:57,724 api 2112 6104 User logged out: 
+INFO 2024-08-30 13:29:07,809 api 7724 6756 New User created 
+INFO 2024-08-30 13:29:58,401 api 7724 2536 User logged in: sagar
+INFO 2024-08-30 13:31:00,956 api 7724 2536 User logged out: 
+INFO 2024-08-30 13:38:40,760 api 5192 12044 New User created user3
+INFO 2024-08-30 13:38:52,405 api 5192 10680 User logged in: user3
+INFO 2024-08-30 13:43:28,171 api 10884 2060 User logged in: user3
+INFO 2024-08-30 13:48:20,124 api 13128 6856 User logged in: user3
+INFO 2024-08-30 13:53:27,605 api 13128 6856 User logged out: 
+INFO 2024-08-30 13:53:38,726 api 13128 6856 User logged in: user3
+INFO 2024-08-30 14:02:42,073 api 13128 4656 User logged out: 

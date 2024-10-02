@@ -1,0 +1,36 @@
+INFO 2024-08-30 13:14:07,221 api 2112 13308 Objects show successfully
+INFO 2024-08-30 13:14:57,520 api 2112 13308 created Objects successfully
+INFO 2024-08-30 13:14:59,157 api 2112 13308 Objects show successfully
+INFO 2024-08-30 13:15:03,552 api 2112 7604 Objects get succefully 15
+INFO 2024-08-30 13:15:48,284 api 2112 7604 Update Objects successfully:15
+INFO 2024-08-30 13:15:48,313 api 2112 7604 Objects show successfully
+INFO 2024-08-30 13:15:52,111 api 2112 7604 Objects get succefully 15
+INFO 2024-08-30 13:15:53,553 api 2112 7604 Delete Objects successfully:15
+INFO 2024-08-30 13:15:53,574 api 2112 7604 Objects show successfully
+INFO 2024-08-30 13:30:15,715 api 7724 2536 Objects show successfully
+INFO 2024-08-30 13:30:36,423 api 7724 2536 Objects get succefully 12
+INFO 2024-08-30 13:30:38,042 api 7724 2536 Delete Objects successfully:12
+INFO 2024-08-30 13:30:38,068 api 7724 2536 Objects show successfully
+INFO 2024-08-30 13:43:31,864 api 10884 2060 Objects show successfully
+INFO 2024-08-30 13:44:03,547 api 10884 2060 created Objects successfully{'id': 16, 'expire_date': '09/03/13', 'manufacturing_date': '03/04/24', 'name': 'user3', 'price': 7845.0}
+INFO 2024-08-30 13:44:05,014 api 10884 2060 Objects show successfully
+INFO 2024-08-30 13:44:12,061 api 10884 7328 Objects get succefully Product object (16)
+INFO 2024-08-30 13:44:31,323 api 10884 7328 Update Objects successfully:{'id': 16, 'expire_date': '06/03/12', 'manufacturing_date': '06/03/12', 'name': 'user3', 'price': 7845.0}
+INFO 2024-08-30 13:44:31,350 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:44:35,584 api 10884 7328 Objects get succefully Product object (16)
+INFO 2024-08-30 13:44:37,169 api 10884 7328 Delete Objects successfully:Product object (None)
+INFO 2024-08-30 13:44:37,197 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:44:41,332 api 10884 7328 Objects get succefully Product object (10)
+INFO 2024-08-30 13:44:42,823 api 10884 7328 Delete Objects successfully:Product object (None)
+INFO 2024-08-30 13:44:42,844 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:44:44,161 api 10884 7328 Objects get succefully Product object (11)
+INFO 2024-08-30 13:44:45,661 api 10884 7328 Delete Objects successfully:Product object (None)
+INFO 2024-08-30 13:44:45,677 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:44:47,540 api 10884 7328 Objects get succefully Product object (5)
+INFO 2024-08-30 13:44:48,967 api 10884 7328 Delete Objects successfully:Product object (None)
+INFO 2024-08-30 13:44:48,986 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:44:53,096 api 10884 7328 Objects get succefully Product object (9)
+INFO 2024-08-30 13:44:54,336 api 10884 7328 Delete Objects successfully:Product object (None)
+INFO 2024-08-30 13:44:54,359 api 10884 7328 Objects show successfully
+INFO 2024-08-30 13:47:57,814 api 13128 6856 Objects show successfully
+INFO 2024-08-30 13:48:01,847 api 13128 6856 Objects show successfully
